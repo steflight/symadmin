@@ -1,0 +1,3 @@
+dolphtodo_:
+    path:     /hello/{name}
+    defaults: { _controller: DolphtodoLinkBundle:Hello:index }

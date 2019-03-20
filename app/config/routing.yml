@@ -1,0 +1,8 @@
+dolphtodo_link:
+    resource: "@DolphtodoLinkBundle/Resources/config/routing.yml"
+    prefix:   /
+    
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
